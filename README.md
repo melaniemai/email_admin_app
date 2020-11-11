@@ -11,3 +11,7 @@ With a new email comes a password the new hire will receive. The hire's password
 <br>
 <br>
 The code creates one email for testing purposes. The new email object will envoke a method to display the new hire's first name, last name, (company/alt) email, and mailbox capacity. 
+<br><br>
+**Learning: OOP**
+<br>
+The email administration application was constructed to better understand the concepts of OOP. The code utilizes classes, objects, constructors and encapsulation.  
